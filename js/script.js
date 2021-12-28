@@ -23,7 +23,7 @@
 		$('.a-pagepiling').pagepiling({
 			scrollingSpeed: 280,
 			menu: '#menu, #menuMain',
-			anchors: ['Intro', 'Services', 'Projects', 'Awards', 'Experience', 'Clients', 'Testimonials', 'Contact'],
+			anchors: ['Intro', 'About', 'Step', 'News', 'Services', 'Service', 'Footer'],
 			loopTop: false,
 			loopBottom: false,
 			navigation: {
